@@ -1,9 +1,9 @@
 # 🏡 House Price Prediction API  
 
-**Name:** [Your Name Here]  
-**Reg. No:** [Your Reg. No Here]  
+**Name:** Pabasara Senevirathne 
+**Reg. No:** ITBIN-2211-0285  
 **Course:** IT41043 - Intelligent Systems  
-**GitHub Repository:** [Insert Repo Link Here]  
+**GitHub Repository:** https://github.com/PabasaraSenevirathne/ML-Model-Inference-with-Fast-API.git  
 **Localhost:** http://127.0.0.1:8000/docs  
 
 ---
